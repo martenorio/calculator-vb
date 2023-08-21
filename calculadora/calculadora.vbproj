@@ -33,4 +33,8 @@
     <Folder Include="interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MassTransit" Version="8.1.0" />
+  </ItemGroup>
+
 </Project>
